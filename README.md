@@ -10,6 +10,8 @@ At first you can install nmap stable software and python-nmap module.
 
 Linux Example :
 
+1.sudo apt install figlet
+<br>
 1.git clone https://www.github.com/r3k4t/WifiUser.git
 <br>
 2.cd WifiUser
