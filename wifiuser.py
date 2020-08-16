@@ -6,6 +6,8 @@ os.system("figlet -f standard Wifi  User")
 print
 print 'Author : Rahat Khan Tusar(RKT)'
 print
+print 'Github : https://github.com/r3k4t'
+print
 print 'Information : This program can get all wifi user ip and mac address.'
 print
 ip = raw_input("Router IP :")
